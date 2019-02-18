@@ -22,17 +22,39 @@
 
 
 $ cmake --version #Команда для определения версии cmake
+
 $ curl --version  #Команда для определения версии curl
+curl 7.41.0 (i686-pc-cygwin) libcurl/7.41.0 OpenSSL/1.0.2a zlib/1.2.8 libidn/1.29 libssh2/1.5.0
+Protocols: dict file ftp ftps gopher http https imap imaps ldap ldaps pop3 pop3s rtsp scp sftp smb smbs smtp smtps telnet tftp
+Features: Debug IDN IPv6 Largefile GSS-API Kerberos SPNEGO NTLM NTLM_WB SSL libz TLS-SRP UnixSockets Metalink
+
 $ git --version   #Команда для определения версии git
 git version 2.1.4
 
 $ g++ --version   #Команда для определения версии g++
+
 $ hub --version   #Команда для определения версии hub
+
 $ make --version  #Команда для определения версии make
+GNU Make 4.1
+Built for i686-pc-cygwin
+Copyright (C) 1988-2014 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+
 $ subl --version  #Команда для определения версии subl
+
 $ tree --version  #Команда для определения версии tree
+tree v1.7.0 (c) 1996 - 2014 by Steve Baker, Thomas Moore, Francesc Rocher, Florian Sesser, Kyosuke Tokoro
+
 $ wget --version  #Команда для определения версии wget
+GNU Wget 1.16.3 built on cygwin.
+
 $ openssl version #Команда для определения версии openssl
+OpenSSL 1.0.2a 19 Mar 2015
+
+
 ```
 
 ## Links
