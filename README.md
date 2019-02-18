@@ -24,6 +24,8 @@
 $ cmake --version #Команда для определения версии cmake
 $ curl --version  #Команда для определения версии curl
 $ git --version   #Команда для определения версии git
+git version 2.1.4
+
 $ g++ --version   #Команда для определения версии g++
 $ hub --version   #Команда для определения версии hub
 $ make --version  #Команда для определения версии make
