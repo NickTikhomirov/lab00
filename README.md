@@ -10,9 +10,9 @@
 - [x] 4. Отправить зарегистрированный адрес почтового ящика личным сообщением в **Slack**
 - [x] 5. Отправить зарегистрированный логин личным сообщением в **Slack**
 - [x] 6. Ознакомиться со ссылками учебного материала
-- [ ] 7. Выполнить инструкцию учебного материала
-- [х] 8. Сгенирировать **Personal Token** с правами **gist** и сохранить его в файл
-- [ ] 9. Составить отчет и отправить ссылку личным сообщением в **Slack**
+- [x] 7. Выполнить инструкцию учебного материала
+- [x] 8. Сгенирировать **Personal Token** с правами **gist** и сохранить его в файл
+- [x] 9. Составить отчет и отправить ссылку личным сообщением в **Slack**
 
 ## Tutorial
 
@@ -22,38 +22,34 @@
 
 
 $ cmake --version #Команда для определения версии cmake
+cmake version 3.6.2
 
 $ curl --version  #Команда для определения версии curl
-curl 7.41.0 (i686-pc-cygwin) libcurl/7.41.0 OpenSSL/1.0.2a zlib/1.2.8 libidn/1.29 libssh2/1.5.0
-Protocols: dict file ftp ftps gopher http https imap imaps ldap ldaps pop3 pop3s rtsp scp sftp smb smbs smtp smtps telnet tftp
-Features: Debug IDN IPv6 Largefile GSS-API Kerberos SPNEGO NTLM NTLM_WB SSL libz TLS-SRP UnixSockets Metalink
+curl 7.41.0 
 
 $ git --version   #Команда для определения версии git
 git version 2.1.4
 
 $ g++ --version   #Команда для определения версии g++
+g++ (GCC) 7.4.0
 
 $ hub --version   #Команда для определения версии hub
+hub version 2.9.0
 
 $ make --version  #Команда для определения версии make
 GNU Make 4.1
-Built for i686-pc-cygwin
-Copyright (C) 1988-2014 Free Software Foundation, Inc.
-License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
-This is free software: you are free to change and redistribute it.
-There is NO WARRANTY, to the extent permitted by law.
 
 $ subl --version  #Команда для определения версии subl
+Sublime Text Build 3176
 
 $ tree --version  #Команда для определения версии tree
-tree v1.7.0 (c) 1996 - 2014 by Steve Baker, Thomas Moore, Francesc Rocher, Florian Sesser, Kyosuke Tokoro
+tree v1.7.0
 
 $ wget --version  #Команда для определения версии wget
-GNU Wget 1.16.3 built on cygwin.
+GNU Wget 1.16.3
 
 $ openssl version #Команда для определения версии openssl
-OpenSSL 1.0.2a 19 Mar 2015
-
+OpenSSL 1.0.2a
 
 ```
 
